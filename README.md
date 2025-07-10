@@ -2,7 +2,7 @@
 
 This project is a basic front-end web page for **FitTrack**, created as part of Lab 1 for demonstration purposes.
 
-## 📁 Project Structure
+## Project Structure
 
 This is a simple static HTML/CSS project with the following features:
 
@@ -10,7 +10,7 @@ This is a simple static HTML/CSS project with the following features:
 - Simple navigation bar and sections
 - Placeholder content for future styling or integration
 
-## 🚀 View Online
+## View Online
 
 This project is deployed via GitHub Pages.  
 🔗 **Live site:** [https://sherry622tsy.github.io/lab1/](https://sherry622tsy.github.io/lab1/)
