@@ -1,6 +1,6 @@
-# Lab 1 – FitCheck HTML Demo
+# Lab 1 – FitTrack HTML Demo
 
-This project is a basic front-end web page for **FitCheck**, created as part of Lab 1 for demonstration purposes.
+This project is a basic front-end web page for **FitTrack**, created as part of Lab 1 for demonstration purposes.
 
 ## 📁 Project Structure
 
