@@ -13,9 +13,9 @@ This is a simple static HTML/CSS project with the following features:
 ## View Online
 
 This project is deployed via GitHub Pages.  
-🔗 **Live site:** [https://sherry622tsy.github.io/lab1/](https://sherry622tsy.github.io/lab1/)
+**Live site:** [https://sherry622tsy.github.io/lab1/](https://sherry622tsy.github.io/lab1/)
 
-## 🛠 How to Run Locally
+## How to Run Locally
 
 1. Clone the repo:
    ```bash
